@@ -1,0 +1,10 @@
+{
+  "name": "Quikscriptify",
+  "description": "This extension translates web-page text into Quikscript for brevity and practice reading it.",
+  "version": "0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "html/popup.html",
+    "default_icon": "images/Thumbnail.png"
+  }
+}
